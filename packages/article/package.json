@@ -28,5 +28,6 @@
   },
   "dependencies": {
     "title": "^0.0.1-alpha.0"
-  }
+  },
+  "gitHead": "9fc95e0fd064c8905e40a95ee8e126ef8dad783c"
 }
