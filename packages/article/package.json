@@ -1,5 +1,5 @@
 {
-  "name": "article",
+  "name": "article_tds",
   "version": "0.0.3-alpha.0",
   "description": "文章组件",
   "keywords": [
@@ -29,5 +29,5 @@
   "dependencies": {
     "title": "^0.0.2-alpha.0"
   },
-  "gitHead": "5ae8d2f2f5242c71ed3d4901495852fdf7867b92"
+  "gitHead": "8998382ed0d1b05ced84c43e76c4142cfce87237"
 }
